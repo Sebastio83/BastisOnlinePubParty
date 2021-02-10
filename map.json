@@ -49,7 +49,8 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/call.qualityminds.de\/SquirrelsManageImpolitelyIntense"
+                 "value":"https:\/\/call.qualityminds.de\/SquirrelsManageImpolitelyIntense",
+                  "jitsiTrigger": "onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
