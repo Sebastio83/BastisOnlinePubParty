@@ -49,12 +49,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"BastisOnlinePub"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"31af1b7d-4c15-4684-848f-0f65ebf2e00b"
                 }],
          "type":"tilelayer",
          "visible":true,
