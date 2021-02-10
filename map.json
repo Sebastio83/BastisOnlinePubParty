@@ -49,7 +49,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/BastisPubParty"
+                 "value":"https:\/\/meet.jit.si\/immernurwollen-meeting_dojo"
                 }],
          "type":"tilelayer",
          "visible":true,
